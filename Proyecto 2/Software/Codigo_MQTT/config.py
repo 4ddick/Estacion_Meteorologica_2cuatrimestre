@@ -1,0 +1,4 @@
+WIFI_SSID = "S25 FE de Ismael"
+WIFI_PASS = "suckmydick2008"
+MQTT_BROKER = "10.196.144.63"
+MQTT_PORT = 1883
